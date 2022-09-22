@@ -25,6 +25,7 @@
 - 🌴 Loves nature travel
 - 🖼️ Loves to help developers
 - 🔗 Owner of q-google-map: https://q-google-map.netlify.app/
+- 🔗 Owner of q-google-map: https://readmepro.netlify.app/
 - 🙏 Please Support: https://www.buymeacoffee.com/mayur091193
 
 
