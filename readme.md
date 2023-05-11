@@ -16,6 +16,7 @@
 ### Hi there 👋, Mayur here...Thanks for visiting my Profile
 
 
+- 🔗 Buy cool UI templates: https://techforest9.gumroad.com/
 - 🔭 I’m currently working on open-source projects (Quasar framework and Vue.js, Angular 12, Python 3.X)
 - 🌱 Always learning new Technologies
 - 🏗 I’m developing free quasar app extensions, chrome extensions, templates and components
@@ -27,6 +28,7 @@
 - 🔗 Owner of q-google-map: https://q-google-map.netlify.app/
 - 🔗 Owner of Readme Pro: https://readmepro.netlify.app/
 - 🙏 Please Support: https://www.buymeacoffee.com/mayur091193
+- 🔗 Buy cool UI templates: https://techforest9.gumroad.com/
 
 
 ---
