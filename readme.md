@@ -29,6 +29,7 @@
 - 🔗 Owner of Readme Pro: https://readmepro.netlify.app/
 - 🙏 Please Support: https://www.buymeacoffee.com/mayur091193
 - 🔗 Buy cool UI templates: https://techforest9.gumroad.com/
+- If you want to by fully functional Fantasy Cricket Android App, email me at mayur091193@gmail.com
 
 
 ---
